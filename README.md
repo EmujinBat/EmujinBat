@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I am a rising second year at UVA, studying Data Science. 👋
 
 <!--
 **EmujinBat/EmujinBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
