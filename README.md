@@ -1,4 +1,7 @@
-## Hello, I am a rising second year at UVA, studying Data Science. 👋
+## Hello, I am a rising second year at UVA, studying Data Science!
+
+My hometown is San Francisco, CA. 
+
 
 <!--
 **EmujinBat/EmujinBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
