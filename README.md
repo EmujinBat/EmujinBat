@@ -1,4 +1,4 @@
-## Hello, I am a rising second year at UVA, studying Data Science!
+## 2nd year at UVA, studying Data Science and Economics. 
 
 My hometown is San Francisco, CA. 
 
